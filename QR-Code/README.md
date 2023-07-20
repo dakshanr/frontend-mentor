@@ -46,7 +46,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Media queries
 
 
-- Some CSS I'm proud of:
+### Some CSS I'm proud of:
 ```css
 @media screen {
     .main {
